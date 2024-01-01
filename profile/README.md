@@ -10,12 +10,12 @@ Jeśli jeszcze nie miałeś(-aś) okazji czytać mojego bloga, zapraszam do nadr
 - [Wieże Hanoi](https://swistak.codes/post/wieze-hanoi/) ([repozytorium](https://github.com/swistak-codes/towers-of-hanoi))
 - [Liczby pierwsze i proste sposoby na ich sprawdzanie](https://swistak.codes/post/liczby-pierwsze-i-proste-sposoby-na-ich-sprawdzanie/) ([repozytorium](https://github.com/swistak-codes/prime-numbers))
 
-Masz jakieś pytania, czy chciał(a)byś porozmawiać? Zajrzyj do zakładki [Discussions](https://github.com/orgs/swistak-codes/discussions).
+Masz jakieś pytania bądź chciałbyś/chciałabyś porozmawiać? Zajrzyj do zakładki [Discussions](https://github.com/orgs/swistak-codes/discussions).
 
 ## Wsparcie świstak.codes
 
 Jeśli chcesz wesprzeć rozwój bloga, przede wszystkim będę wdzięczny za polubienia i udostępniania na mediach społecznościowych (linki u góry), a także polecanie artykułów znajomym! 
 
-Natomiast, jak chcesz wesprzeć mnie finansowo, możesz skorzystać z poniższej opcji:
+Natomiast jeśli chcesz wesprzeć mnie finansowo, możesz skorzystać z poniższej opcji:
 
 <p align="center"><a href="https://buycoffee.to/swistak" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 150px" alt="Postaw mi kawę na buycoffee.to"></a></p>
