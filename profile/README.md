@@ -16,6 +16,11 @@ Masz jakieś pytania bądź chciałbyś/chciałabyś porozmawiać? Zajrzyj do za
 
 Jeśli chcesz wesprzeć rozwój bloga, przede wszystkim będę wdzięczny za polubienia i udostępniania na mediach społecznościowych (linki u góry), a także polecanie artykułów znajomym! 
 
-Natomiast jeśli chcesz wesprzeć mnie finansowo, możesz skorzystać z poniższej opcji:
+Natomiast jeśli chcesz wesprzeć mnie finansowo, możesz skorzystać z poniższych opcji:
 
-<p align="center"><a href="https://buycoffee.to/swistak" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary.svg" style="width: 150px" alt="Postaw mi kawę na buycoffee.to"></a></p>
+<p align="center">
+  <a href="https://suppi.pl/tswistak" target="_blank"><img width="165" src="https://suppi.pl/api/widget/button.svg?fill=6457FD&textColor=ffffff"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/sponsors/swistak-codes" target="_blank">GitHub Sponsors</a>
+</p>
